@@ -49,6 +49,7 @@ stylesheets[all][] = system.messages.css
 stylesheets[all][] = system.theme.css
 stylesheets[all][] = comment.css
 stylesheets[all][] = node.css
+stylesheets[print][] = ./css/print.css
 
 ; If you wish to use conditional stylesheets, you should install the
 ; conditional stylesheets module: https://drupal.org/project/conditional_styles
