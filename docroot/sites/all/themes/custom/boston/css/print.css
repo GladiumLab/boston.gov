@@ -14,7 +14,7 @@ font-size: 14pt;
 }
 
 
-*:not(.news-item-default-image):not(.date-flag):not(.icon),
+*:not(.news-item-default-image):not(.date-flag):not(.icon):not(.cd-ic),
 *:before,
 *:after,
 *:first-letter,
@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5,h6 { page-break-after:avoid; }
 h1{font-size:19pt !important;}
 h2{font-size:17pt !important;}
 h3{font-size:15pt !important;}
-h4,h5,h6{font-size !important:14pt;}
+h4,h5,h6{font-size: 14pt !important;}
 
 
 p, h2, h3 { orphans: 3; widows: 3; }
