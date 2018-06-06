@@ -283,10 +283,8 @@ projects:
     version: 2.12
   workbench:
     version: 1.2
-  drafty:
-    version: 1.0-rc1
   workbench_moderation:
-    version: 3.0
+    version: 1.4
   #Dev version of WYSIWYG is required for 4.x CKEditor to work.
   workbench_scheduler:
     version: 2.0
